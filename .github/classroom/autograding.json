@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "TP 1 math test",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest math_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 1
+    }
+  ]
+}
